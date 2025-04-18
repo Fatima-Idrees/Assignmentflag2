@@ -1,0 +1,19 @@
+.flag{
+    height:300px;
+    width: 500px;
+    background-color: #df0031;
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.white{
+    height:150px;
+    width:190px;
+    background-color: #ffffff;
+}
+img{
+    height: 100px;
+    width:100px;
+    padding-top: 25px;
+    margin-left: 40px;
+    display: block;
+}
